@@ -49,7 +49,11 @@
     "postcss-load-config": "^6.0.1",
     "postcss-loader": "^8.2.0",
     "postcss-minify": "^1.2.0",
+<<<<<<< HEAD
     "prettier": "^3.7.4",
+=======
+    "prettier": "^3.8.0",
+>>>>>>> 015fe6d61b620f2c5622b7906b2ee5079f1ab1e9
     "remark": "^15.0.1",
     "remark-html": "^16.0.1",
     "remark-loader": "^6.0.0",
